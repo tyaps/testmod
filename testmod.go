@@ -2,9 +2,6 @@ package testmod
 
 import "fmt"
 
-package testmod
-
-import "fmt"
 
 // Hi returns a friendly greeting
 func Hi(name string) string {
